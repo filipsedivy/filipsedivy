@@ -1,4 +1,4 @@
-![Hi, I'm Philip 👋 I'm a 🚀 Czech software engineer 🚀 I 😍️ challenges](https://github.com/filipsedivy/filipsedivy/raw/main/assets/github.gif)
+![Hi, I'm Philip 👋 I'm a 🚀 Czech software engineer 🚀 I 😍️ challenges](https://github.com/filipsedivy/filipsedivy/raw/master/assets/github.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/filipsedivy/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/filipsedivy)
