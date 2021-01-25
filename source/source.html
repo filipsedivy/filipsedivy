@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <title>Source</title>
+
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.rawgit.com/vwochnik/jquery-typing/v0.1.6/dist/jquery.typing.min.css">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          type="text/css">
+
+    <link rel='stylesheet' href='https://unpkg.com/emoji.css/dist/emoji.min.css'>
+
+
+    <style>
+        .parent {
+            position: relative;
+        }
+
+        .child {
+            position: absolute;
+            top: 190px;
+            left: 10%;
+            border: 1px solid black;
+            width: 1054px;
+            height: 400px;
+            padding: 50px;
+            text-align: center;
+            padding-top: 110px;
+        }
+
+        h1{
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container-fluid mt-5 parent">
+    <div class="child mt-lg-5">
+        <h1><span id="typing"></span></h1>
+    </div>
+</div>
+
+<div id="particles-js"></div>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.3/particles.min.js"
+        integrity="sha512-jq8sZI0I9Og0nnZ+CfJRnUzNSDKxr/5Bvha5bn7AHzTnRyxUfpUArMzfH++mwE/hb2efOo1gCAgI+1RMzf8F7g=="
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+<script>
+    $(function () {
+        var typed = new Typed('#typing', {
+            strings: ['Hi, I\'m Philip 👋', 'I\'m a 🚀 Czech software engineer 🚀', 'I 😍️ challenges', ''],
+            typeSpeed: 40,
+            contentType: 'html'
+        });
+
+        particlesJS.load('particles-js', 'particlesjs.json', function () {
+            console.log('particles.json loaded...do your thing!');
+        });
+    });
+</script>
+</body>
+</html>
