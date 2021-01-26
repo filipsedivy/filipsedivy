@@ -6,7 +6,7 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=filipsedivy.filipsedivy&style=flat-square&color=0088cc)
 
-I'm a student Bachelors's in software engineering 🎓 from Tomas Bata University 🏛. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and I'm working on my projects that help others 🤓.
+I'm a student Bachelor's in software engineering 🎓 from Tomas Bata University 🏛. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development, 🕸️ and I'm working on my projects that help others 🤓.
 
 ### 🙌🏻 Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with PHP, Nette Framework, Python, TensorFlow, Keras, MySQL
