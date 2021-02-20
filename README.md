@@ -38,6 +38,10 @@ I'm a student Bachelor's in software engineering 🎓 from Tomas Bata University
       <img src="./assets/tech/elasticsearch.svg" width="48" height="48" alt="ElasticSearch" />
       <br>ElasticSearch
     </td>
+    <td align="center" width="96">
+      <img src="./assets/tech/aws.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
   </tr>
   <tr>
   	<td align="center" width="96">
@@ -47,6 +51,10 @@ I'm a student Bachelor's in software engineering 🎓 from Tomas Bata University
     <td align="center" width="96">
       <img src="./assets/tech/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/tech/next-js.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
 	<td align="center"  width="96">
       <img src="./assets/tech/debian.svg" width="48" height="48" alt="Debian" />
