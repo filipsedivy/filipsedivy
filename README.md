@@ -11,7 +11,7 @@ willing to learn and work across technologies💡. I love to explore new technol
 problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development, 🕸️
 and I'm working on my projects that help others 🤓.
 
-👀 They are currently working on their bachelor thesis on **Forensic Tool for Detecting Child Pornography Using Deep Neural Networks**. In this thesis, I comprehensively deal with data collection, data analysis, dataset processing, development and tuning of artificial neural model based on convolutional neural network and final deployment into software.
+📣 They are currently working on their bachelor thesis on **Forensic Tool for Detecting Child Pornography Using Deep Neural Networks**. In this thesis, I comprehensively deal with data collection, data analysis, dataset processing, development and tuning of artificial neural model based on convolutional neural network and final deployment into software.
 
 ### 🙌🏻 Talking about Personal Stuffs:
 
