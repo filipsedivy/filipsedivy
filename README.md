@@ -92,7 +92,7 @@ and I'm working on my projects that help others 🤓.
         <td><a href="https://github.com/filipsedivy/cnb-api"><b>🥷 SortNinja</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/cnb-api?style=flat-square"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/SortNinja?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SortNinja?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SortNinja?style=flat-square"/></td>
       </tr>
