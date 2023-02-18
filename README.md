@@ -32,6 +32,10 @@ and I'm working on my projects that help others 🤓.
       <img src="./assets/tech/python.svg" width="48" height="48" alt="Python" />
       <br>Python
    </td>
+   <td align="center" width="96">
+      <img src="./assets/tech/java.svg" width="48" height="48" alt="Java" />
+      <br>Java
+   </td>
  </tr>
 </table>
 
@@ -83,6 +87,14 @@ and I'm working on my projects that help others 🤓.
         <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/pixel.py?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/pixel.py?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/pixel.py?style=flat-square"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/filipsedivy/cnb-api"><b>🥷 SortNinja</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/cnb-api?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SortNinja?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SortNinja?style=flat-square"/></td>
       </tr>
       <tr>
       	<td><a href="https://github.com/filipsedivy/php-eet"><b>💸 Electronic records of sale</b></a></td>
