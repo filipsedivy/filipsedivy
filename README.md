@@ -69,51 +69,67 @@ and I'm working on my projects that help others 🤓.
 ### 🧑‍🚀 Open Source Projects
 
 <table>
-    <thead align="center">
-      <tr>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-      	<td><a href="https://github.com/filipsedivy/pixel.py"><b>🖼 Pixel.py</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/pixel.py?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/pixel.py?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/pixel.py?style=flat-square"/></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/filipsedivy/SortNinja"><b>🥷 SortNinja</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/SortNinja?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SortNinja?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SortNinja?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/filipsedivy/php-eet"><b>💸 Electronic records of sale</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/php-eet?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/php-eet?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/php-eet?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/php-eet?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/php-eet?style=flat-square"/></td>
-      </tr>
-      <tr>
-      	<td><a href="https://github.com/filipsedivy/cnb-api"><b>⚡️ CNB exchange rates</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/cnb-api?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/cnb-api?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/cnb-api?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/cnb-api?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/cnb-api?style=flat-square"/></td>
-      </tr>
-    </tbody>
-  </table>
+  <thead align="center">
+    <tr>
+      <td><b>💻 Projects</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>🍴 Forks</b></td>
+      <td><b>🐛 Issues</b></td>
+      <td><b>🔔 Pull Requests</b></td>
+      <td><b>👨‍💻 Language</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    	<td><a href="https://github.com/filipsedivy/pixel.py"><b>🖼 Pixel.py</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/pixel.py?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/pixel.py?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/pixel.py?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/filipsedivy/SortNinja"><b>🥷 SortNinja</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/SortNinja?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SortNinja?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SortNinja?style=flat-square"/></td>
+    </tr>
+    <tr>
+    	<td><a href="https://github.com/filipsedivy/php-eet"><b>💸 Electronic records of sale</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/php-eet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/php-eet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/php-eet?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/php-eet?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/php-eet?style=flat-square"/></td>
+    </tr>
+    <tr>
+    	<td><a href="https://github.com/filipsedivy/cnb-api"><b>⚡️ CNB exchange rates</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/cnb-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/cnb-api?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/cnb-api?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/cnb-api?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/cnb-api?style=flat-square"/></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🔐 Security Projects
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>💻 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/filipsedivy/CVE-2020-15227"><b>CVE-2020-15227</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 📊 Github Stats
 <a href='https://github.com/filipsedivy/github-stats'>
