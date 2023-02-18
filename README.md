@@ -121,11 +121,13 @@ and I'm working on my projects that help others 🤓.
   <thead align="center">
     <tr>
       <td><b>💻 Projects</b></td>
+      <td><b>🧐 Category</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/filipsedivy/CVE-2020-15227"><b>CVE-2020-15227</b></a></td>
+      <td>CVE Check Tool</td>
     </tr>
   </tbody>
 </table>
