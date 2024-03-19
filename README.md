@@ -6,12 +6,12 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=filipsedivy.filipsedivy&style=flat-square&color=0088cc)
 
-I'm a student Bachelor's in software engineering 🎓 from Tomas Bata University 🏛. I'm a passionate learner who's always
+I'm a student Master's in software engineering 🎓 from Tomas Bata University 🏛. I'm a passionate learner who's always
 willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life
 problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development, 🕸️
 and I'm working on my projects that help others 🤓.
 
-📣 They are currently working on their bachelor thesis on **Forensic Tool for Detecting Child Pornography Using Deep Neural Networks**. In this thesis, I comprehensively deal with data collection, data analysis, dataset processing, development and tuning of artificial neural model based on convolutional neural network and final deployment into software.
+📣 They are currently working on their master thesis on **A Detection Forensic Tool Using Deep Neural Networks for Detecting Specific Data According to the COPINE Scale**. In this thesis, I comprehensively deal with data collection, data analysis, dataset processing, development and tuning of artificial neural model based on convolutional neural network and final deployment into software.
 
 ### 🙌🏻 Talking about Personal Stuffs:
 
@@ -87,14 +87,6 @@ and I'm working on my projects that help others 🤓.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/pixel.py?style=flat-square"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/pixel.py?style=flat-square"/></td>
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/pixel.py?style=flat-square"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/filipsedivy/SortNinja"><b>🥷 SortNinja</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SortNinja?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/SortNinja?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SortNinja?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SortNinja?style=flat-square"/></td>
     </tr>
     <tr>
     	<td><a href="https://github.com/filipsedivy/php-eet"><b>💸 Electronic records of sale</b></a></td>
