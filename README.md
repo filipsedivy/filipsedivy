@@ -80,6 +80,14 @@ and I'm working on my projects that help others 🤓.
     </tr>
   </thead>
   <tbody>
+   <tr>
+    	<td><a href="https://github.com/filipsedivy/SLiM-CZ-V1"><b>🇨🇿 SLiM-CZ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SLiM-CZ-V1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SLiM-CZ-V1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/SLiM-CZ-V1?style=flat-square"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SLiM-CZ-V1?style=flat-square"/></td>
+      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SLiM-CZ-V1?style=flat-square"/></td>
+    </tr>
     <tr>
     	<td><a href="https://github.com/filipsedivy/pixel.py"><b>🖼 Pixel.py</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
