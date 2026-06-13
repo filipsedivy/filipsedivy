@@ -1,142 +1,76 @@
-![Hi, I'm Philip 👋 I'm a 🚀 Czech software engineer 🚀 I 😍️ challenges](https://github.com/filipsedivy/filipsedivy/raw/master/assets/github.gif)
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](http://linkedin.com/in/filipsedivy/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/filipsedivy)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/filipsedivy.cz)
+# Filip Šedivý
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=filipsedivy.filipsedivy&style=flat-square&color=0088cc)
+**Software Engineer · AI/ML & Computer Vision**
 
-I'm a student Master's in software engineering 🎓 from Tomas Bata University 🏛. I'm a passionate learner who's always
-willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life
-problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development, 🕸️
-and I'm working on my projects that help others 🤓.
+Czech Republic · Currently [@Boost.space](https://boost.space)
 
-📣 They are currently working on their master thesis on **A Detection Forensic Tool Using Deep Neural Networks for Detecting Specific Data According to the COPINE Scale**. In this thesis, I comprehensively deal with data collection, data analysis, dataset processing, development and tuning of artificial neural model based on convolutional neural network and final deployment into software.
+[![Website](https://img.shields.io/badge/filipsedivy.com-10b981?style=flat-square)](https://filipsedivy.com)
+[![X](https://img.shields.io/badge/@SedivyFilip-09090b?style=flat-square&logo=x&logoColor=white)](https://twitter.com/SedivyFilip)
+[![LinkedIn](https://img.shields.io/badge/in/filipsedivy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipsedivy)
+[![Hugging Face](https://img.shields.io/badge/filipsedivy-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/filipsedivy)
+[![ORCID](https://img.shields.io/badge/0000--0001--6508--1735-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6508-1735)
 
-### 🙌🏻 Talking about Personal Stuffs:
+</div>
 
-- 🛠 &nbsp; I’m currently working with PHP, Nette Framework, Python, TensorFlow, Keras
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/filipsedivy).
-- 🧠 &nbsp; I'm interested in artificial intelligence and I like to study it
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+## `// about`
 
-### 😍 Favorite Programming Languages
+I'm a senior software engineer from the Czech Republic with a master's in computer science and 8+ years of experience. My neural networks scanned 6+ million images in the fight against child abuse material, and my security research made national news.
 
-<table>
- <tr>
-  <td align="center" width="96">
-      <img src="./assets/tech/php.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
-   </td>
-   <td align="center" width="96">
-      <img src="./assets/tech/python.svg" width="48" height="48" alt="Python" />
-      <br>Python
-   </td>
-   <td align="center" width="96">
-      <img src="./assets/tech/java.svg" width="48" height="48" alt="Java" />
-      <br>Java
-   </td>
- </tr>
-</table>
+At [Boost.space](https://boost.space) I build on vector search and LLMs, develop the MCP server and work on the PHP/Nette API. After hours: model-level computer vision, training and inference, LLM and cybersecurity research.
 
-### 🚀 Favorite Tech
+## `// stack`
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="./assets/tech/nette.png" width="48" height="48" alt="Nette" />
-      <br>Nette
-    </td>
-    <td align="center"  width="96">
-      <img src="./assets/tech/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center"  width="96">
-      <img src="./assets/tech/keras.svg" width="48" height="48" alt="Keras" />
-      <br>Keras
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/tech/aws.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/tech/docker.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
+|             |                                                       |
+| ----------- | ----------------------------------------------------- |
+| **AI & ML** | PyTorch · TensorFlow · Keras · YOLO                   |
+| **LLM & RAG** | LangChain · Hugging Face Transformers · FAISS · Qdrant |
+| **Backend** | Python · PHP · Nette · Docker                         |
 
-### 🧑‍🚀 Open Source Projects
+## `// highlights`
 
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>💻 Projects</b></td>
-      <td><b>🌟 Stars</b></td>
-      <td><b>🍴 Forks</b></td>
-      <td><b>🐛 Issues</b></td>
-      <td><b>🔔 Pull Requests</b></td>
-      <td><b>👨‍💻 Language</b></td>
-    </tr>
-  </thead>
-  <tbody>
-   <tr>
-    	<td><a href="https://github.com/filipsedivy/SLiM-CZ-V1"><b>🇨🇿 SLiM-CZ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/SLiM-CZ-V1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/SLiM-CZ-V1?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/SLiM-CZ-V1?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/SLiM-CZ-V1?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/SLiM-CZ-V1?style=flat-square"/></td>
-    </tr>
-    <tr>
-    	<td><a href="https://github.com/filipsedivy/pixel.py"><b>🖼 Pixel.py</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/pixel.py?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/pixel.py?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/pixel.py?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/pixel.py?style=flat-square"/></td>
-    </tr>
-    <tr>
-    	<td><a href="https://github.com/filipsedivy/php-eet"><b>💸 Electronic records of sale</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/php-eet?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/php-eet?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/php-eet?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/php-eet?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/php-eet?style=flat-square"/></td>
-    </tr>
-    <tr>
-    	<td><a href="https://github.com/filipsedivy/cnb-api"><b>⚡️ CNB exchange rates</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/filipsedivy/cnb-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/filipsedivy/cnb-api?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/filipsedivy/cnb-api?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/filipsedivy/cnb-api?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/filipsedivy/cnb-api?style=flat-square"/></td>
-    </tr>
-  </tbody>
-</table>
+- **AI forensics against child abuse material** · `2019 — 2024`
+  A CNN-based forensic tool (COPINE scale) that analyzed 6M+ photos on Rajče.net (out of ~13M crawled). Covered by national media, awarded by the Governor of the Zlín Region.
+  [`bachelor-csam`](https://github.com/filipsedivy/bachelor-csam) · [Živě.cz coverage](https://www.zive.cz/clanky/ceske-rajce-je-stale-plne-detskych-nahotin-student-pomoci-ai-analyzoval-miliony-fotek/sc-3-a-201672/default.aspx)
 
-### 🔐 Security Projects
+- **Flaw in the national vaccination registry** · `2021`
+  Demonstrated how the Czech COVID-19 vaccination booking system could be bypassed.
+  [CNN Prima NEWS interview](https://cnn.iprima.cz/student-se-naboural-do-rezervacniho-systemu-pro-ockovani-nic-tezkeho-popisuje-17213)
 
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>💻 Projects</b></td>
-      <td><b>🧐 Category</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/filipsedivy/CVE-2020-15227"><b>CVE-2020-15227</b></a></td>
-      <td>CVE Check Tool</td>
-    </tr>
-  </tbody>
-</table>
+## `// experience`
 
+- **Backend Engineer** · Boost.space · `2022 — now` — Building the platform's MCP server end-to-end, plus vector search and retrieval algorithms — on the edge between LLMs and backend engineering (Python, PHP/Nette).
+- **Tutor & Mentor** · Tomas Bata University in Zlín · `2021 — 2024` — Programming and neural networks at the Programming Support Center.
+- **Senior PHP Developer** · NETVOR · Fondee.cz · `2021` — API architecture for an online investment platform.
+- **Network & Security Specialist** · Petra Clinic · `2016 — 2022` — GDPR-compliant network protecting sensitive medical data.
 
-### 📊 Github Stats
-<a href='https://github.com/filipsedivy/github-stats'>
+## `// education`
 
-![Stats Overview](https://raw.githubusercontent.com/filipsedivy/github-stats/master/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/filipsedivy/github-stats/master/generated/languages.svg)
+- **MSc & BSc in Computer Science** · Tomas Bata University in Zlín · `2019 — 2024` — Both theses on deep-learning forensics; bachelor thesis awarded by the Governor of the Zlín Region.
 
-</a>
+## `// open source`
+
+**AI & Computer Vision**
+
+- [`bachelor-csam`](https://github.com/filipsedivy/bachelor-csam) — Forensic tool for detecting CSAM with deep neural networks (COPINE scale). My thesis project. ![stars](https://img.shields.io/github/stars/filipsedivy/bachelor-csam?style=flat-square&labelColor=343b41&color=10b981)
+- [`bachelor-rajce-crawler`](https://github.com/filipsedivy/bachelor-rajce-crawler) — Crawler that built the dataset behind the forensic tool.
+- [`pixel.py`](https://github.com/filipsedivy/pixel.py) — Image data preprocessing toolkit. ![stars](https://img.shields.io/github/stars/filipsedivy/pixel.py?style=flat-square&labelColor=343b41&color=10b981)
+- [`PyNeuron`](https://github.com/filipsedivy/PyNeuron) — Core ML implementations to understand AI fundamentals from the ground up.
+
+**PHP & Backend**
+
+- [`php-eet`](https://github.com/filipsedivy/php-eet) — Client for the Czech electronic records of sales. 165k+ installs. ![stars](https://img.shields.io/github/stars/filipsedivy/php-eet?style=flat-square&labelColor=343b41&color=10b981)
+- [`cnb-api`](https://github.com/filipsedivy/cnb-api) — PHP library for Czech National Bank exchange rates. ![stars](https://img.shields.io/github/stars/filipsedivy/cnb-api?style=flat-square&labelColor=343b41&color=10b981)
+- [`php-download-file`](https://github.com/filipsedivy/php-download-file) — Extensions for file downloads. ![stars](https://img.shields.io/github/stars/filipsedivy/php-download-file?style=flat-square&labelColor=343b41&color=10b981)
+
+**Security**
+
+- [`CVE-2020-15227`](https://github.com/filipsedivy/CVE-2020-15227) — Checker for the Nette CVE-2020-15227 vulnerability.
+- [`flipper-hello-app`](https://github.com/filipsedivy/flipper-hello-app) — Example application for Flipper Zero. ![stars](https://img.shields.io/github/stars/filipsedivy/flipper-hello-app?style=flat-square&labelColor=343b41&color=10b981)
+
+---
+
+<div align="center">
+<sub>Full résumé → <a href="https://filipsedivy.com">filipsedivy.com</a></sub>
+</div>
